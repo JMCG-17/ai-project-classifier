@@ -18,7 +18,7 @@ Then it:
 
 ## 💻 Live Demo
 
-👉 [Click here to try it live](https://your-username.streamlit.app/) ← *(update with your actual link)*
+👉 https://ai-project-classifier-kh7p5fh5fkdwlxrk3tg3no.streamlit.app/ 
 
 ## 🚀 How to run locally
 
@@ -44,5 +44,4 @@ streamlit run app.py
 ## 👨‍💼 Author
 
 Created by Jose Cortes — AI Product Architect / Strategist  
-📫 Contact: jose.martin.cortes.gtz@example.com
-🌐 Portfolio: 
+📫 Contact: jose.martin.cortes.gtz@gmail.com
